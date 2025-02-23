@@ -7,6 +7,14 @@ TagManager:
   - Agent
   - Helmet
   - BA
+  - ball
+  - purpleAgent
+  - blueAgent
+  - wall
+  - blueGoal
+  - purpleGoal
+  - Enemy
+  - Wall
   layers:
   - Default
   - TransparentFX
